@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright 2017 The ghctl Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
@@ -6,7 +11,7 @@
 package main
 
 import (
-	"github.com/zchee/ghctl/cmd"
+	"github.com/sniperkit/snk.fork.ghctl/cmd"
 )
 
 func main() {

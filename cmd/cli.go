@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright 2017 The ghctl Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
@@ -13,7 +18,8 @@ import (
 	"github.com/fatih/color"
 	cli "github.com/spf13/cobra"
 	spin "github.com/tj/go-spin"
-	"github.com/zchee/ghctl/internal/errors"
+
+	"github.com/sniperkit/snk.fork.ghctl/internal/errors"
 )
 
 type checkType int

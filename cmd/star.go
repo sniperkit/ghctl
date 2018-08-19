@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Copyright 2017 The ghctl Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
@@ -14,7 +19,8 @@ import (
 
 	"github.com/google/go-github/github"
 	cli "github.com/spf13/cobra"
-	"github.com/zchee/ghctl/internal/errors"
+
+	"github.com/sniperkit/snk.fork.ghctl/internal/errors"
 )
 
 // starCmd represents the star command
